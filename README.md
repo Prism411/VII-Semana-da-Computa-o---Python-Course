@@ -1,7 +1,10 @@
 # Introdução ao Python para Iniciantes - Curso
 
 Bem-vindo ao curso **Introdução ao Python para Iniciantes**, parte da **Semana da Computação** da **Universidade Federal de Rondônia (UNIR)**. Este curso é ministrado pelos alunos **Jáder Louis** e **Mariana Barros**, e foi elaborado para fornecer uma base sólida em programação com Python.
+
 ![Logo da UNIR](Imagens/unir.png)
+
+
 ## Visão Geral do Curso
 
 Este curso aborda tópicos essenciais em Python, garantindo que até mesmo iniciantes possam acompanhar e desenvolver suas habilidades. Python é conhecido por sua simplicidade, versatilidade e grande comunidade, tornando-o uma das melhores linguagens para iniciantes. Ao longo do curso, você aprenderá não apenas a sintaxe do Python, mas também como pensar e resolver problemas programaticamente.
